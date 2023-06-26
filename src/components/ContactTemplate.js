@@ -22,7 +22,7 @@ function ContactTemplate() {
             <FacebookIcon className='text-blue-500' />
           </a>
           <a href='https://twitter.com/spaueOfficial'>
-            <TwitterIcon className='text-light-blue-500' />
+            <TwitterIcon className='text-sky-500' />
           </a>
           <a href='mailto:spaueOfficial@gmail.com?subject=I%Have%an%Idea%we%can%Work%On'>
             <EmailIcon className='text-red-400' />

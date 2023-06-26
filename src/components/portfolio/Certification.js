@@ -6,7 +6,7 @@ import StarRateIcon from '@mui/icons-material/StarRate';
 
 function Certification() {
   return (
-    <div className='flex-grow min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-cyan-400 to-light-blue-500'>
+    <div className='flex-grow min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-cyan-400 to-sky-500'>
       <h1 className='text-4xl sm:text-5xl font-bold font-dosis text-white mt-20 sm:mt-16 mb-20 md:mt-12'>
         {content.certificates.title}
       </h1>

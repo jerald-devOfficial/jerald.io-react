@@ -13,9 +13,6 @@ module.exports = {
       '2xl': '1536px',
     },
     extend: {
-      colors: {
-        'light-blue': colors.lightBlue,
-      },
       animation: {
         none: 'none',
         fadeIn: 'fadeIn 2s ease-in forwards',
