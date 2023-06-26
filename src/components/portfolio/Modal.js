@@ -80,10 +80,10 @@ function Modal({ showModal, setShowModal }) {
                     Jerald Baroro
                   </h1>
                   <h3 class='text-green-500 font-lg text-semibold leading-6'>
-                    MERN Stack Developer
+                    Chief Technology Officer at WOOP Scholarship
                   </h3>
                   <p class='text-sm text-green-500 hover:text-gray-600 leading-6'>
-                    Design and Development
+                    MERN Stack, Next.js 13.4, and TypeScript Developer
                   </p>
                   <p class='text-sm text-green-500 hover:text-gray-600 leading-6'>
                     Gaming
@@ -188,7 +188,7 @@ function Modal({ showModal, setShowModal }) {
                           Current Address
                         </div>
                         <div class='pl-2 py-2 md:col-span-1 col-span-2'>
-                          Mabolo, Cebu City
+                          Pagadian City
                         </div>
                       </div>
                       <div class='col-span-3 grid grid-cols-3'>
@@ -263,10 +263,42 @@ function Modal({ showModal, setShowModal }) {
                       <ul class='list-inside space-y-2'>
                         <li>
                           <div class='text-teal-600'>
+                            Chief Technology Officer at WOOP Scholarship
+                          </div>
+                          <div class='text-gray-500 text-xs'>
+                            Sep 2022 - Present
+                          </div>
+                        </li>
+                        <li>
+                          <div class='text-teal-600'>
+                            Software Engineer Analyst at Accenture
+                          </div>
+                          <div class='text-gray-500 text-xs'>
+                            Sep 2021 - Aug 2022
+                          </div>
+                        </li>
+                        <li>
+                          <div class='text-teal-600'>
+                            Web and Application Developer at DevOps Solutions
+                          </div>
+                          <div class='text-gray-500 text-xs'>
+                            Feb 2022 - Jul 2022
+                          </div>
+                        </li>
+                        <li>
+                          <div class='text-teal-600'>
+                            Full Stack Developer at Candid-I
+                          </div>
+                          <div class='text-gray-500 text-xs'>
+                            Apr 2021 - Nov 2021
+                          </div>
+                        </li>
+                        <li>
+                          <div class='text-teal-600'>
                             JavaScript Developer at Panteum Foundation
                           </div>
                           <div class='text-gray-500 text-xs'>
-                            March 2021 - March 2021
+                            Jan 2021 - Mar 2021
                           </div>
                         </li>
                         <li>
